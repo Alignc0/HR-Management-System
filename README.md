@@ -23,7 +23,7 @@ Bu proje, Python ve Tkinter kullanılarak geliştirilmiş, insan kaynakları yö
 4. Aşağıdaki komutla programı başlatın:
 
 ```bash
-python app.py
+python ik_yonetim_modern_gui.py
 ```
 
 ---
